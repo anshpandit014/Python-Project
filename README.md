@@ -1,5 +1,5 @@
 # Python-Project
-#Python Tic Tac Toe – Create Classic Tic-Tac-Toe Game in Python
+# Python Tic Tac Toe – Create Classic Tic-Tac-Toe Game in Python
 # objective 
 The main objective of this project is to develop TIC TAC TOE GAME. Pygame is required to start the project. Four modules numpy, pygame, sys, and math are used in this project.
 # Project File Structure
